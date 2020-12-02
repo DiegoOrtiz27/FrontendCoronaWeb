@@ -1,0 +1,32 @@
+.input-container{
+  width: 22rem;
+  border-radius: 100px;
+  border: 1px solid gray;
+  display: flex;
+  padding: 5px 10px;
+  background-color: white;
+  justify-content: start;
+  align-items: center;
+  margin: 10px;
+  
+}
+/* input */
+.input{
+  height: 40px;
+  border: none;
+  outline: none;
+  margin:0px;
+  background-color:white;
+}
+.input-error{
+  height: 40px;
+  border: none;
+  outline: none;
+  background-color:rgba(252, 105, 105, 0.356);
+}
+
+
+img{
+  width: 1.5em;  
+
+}

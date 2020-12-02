@@ -1,0 +1,15 @@
+.formProfile {
+  width: 25em;
+  text-align: center;
+  border-radius: 8px;
+  background-color: rgba(225, 225, 225, 100%);
+  justify-content: center;
+  padding: 0.5em;
+  margin: 0 auto;
+  box-shadow: 3px 1px 16px 2px black;
+}
+
+.containerInput{
+    margin-top: 0;
+}
+

@@ -1,0 +1,11 @@
+.main-comentarios{
+    background-color:rgba(225, 225, 225, 100%) ;
+    width: 80%;
+    margin:5em auto;
+    padding:2em;
+}
+.input-comentar{
+    width: 30em;
+    height: 10em;
+    margin: 2em 0 1em 20em;
+}

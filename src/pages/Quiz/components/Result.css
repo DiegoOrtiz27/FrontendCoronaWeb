@@ -1,0 +1,30 @@
+.Main-header{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+.tituloCorrecto{
+    text-align: center;
+    color: rgb(29, 192, 29);
+    margin-top: 1em;
+}
+
+.tituloIncorrecto{
+    text-align: center;
+    color: rgb(211, 46, 46);
+    margin-top: 1em;
+}
+.exp{
+    
+    text-align: center;
+    color: black;
+}
+.exp-container{
+    width: 30%;
+    background-color: rgba(138, 138, 138, 72%);
+    margin: 2em auto;
+}
+.buttonPlay{
+    margin:1em 20em 3em 39em;
+ 
+}

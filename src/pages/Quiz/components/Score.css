@@ -1,0 +1,27 @@
+.score-container{
+    background-color: rgba(138, 138, 138, 72%);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0;
+     text-align: center;
+    border-radius: 2%;
+}
+
+.score-container img{
+    width: 2em;
+}
+
+.racha-container{
+    border-right: black solid 3px;
+    margin: auto 5px;
+}
+.racha{
+    margin: 0 1em;
+}
+.puntos-container{
+  
+    margin: auto 5px;
+}
+.puntos{
+    margin: 0 1em;
+}

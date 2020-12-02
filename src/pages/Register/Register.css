@@ -1,0 +1,15 @@
+.container-register{
+    position: absolute;
+    top: 15em;
+    left:33em;
+    max-width: 30em;
+    height: 15em ;
+    padding: 1em;
+    box-shadow: 3px 1px 16px 2px black;
+    text-align: center;
+    border-radius: 8px;
+    background-color: rgba(225, 225, 225, 100%);
+}
+.registered{
+    color: black;
+}

@@ -1,0 +1,33 @@
+.box-container{
+    background-color: white;
+    padding:2em;
+    text-align: center;
+    margin:2em auto;
+    width: 50%;
+    box-shadow: 3px 1px 16px 2px black;
+    height: 30%;
+}
+button {
+    border: none;
+    border-radius: 0.25rem;
+    font-size: 0.75rem;
+    font-weight: bold;
+    padding: 0.75em;
+    display: inline-block;
+    text-decoration: none;
+    margin:1em;
+  }
+  button:hover {
+    cursor: pointer;
+  }
+  button:focus {
+    text-decoration: none;
+    outline: none;
+  }
+
+  .h1-comentarios{
+      border-bottom: gray solid 1px;
+  }
+  .p-comentarios{
+      color:black;
+  }

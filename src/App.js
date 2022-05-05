@@ -18,7 +18,7 @@ class App extends React.Component {
       <div className="canvas">
         <Particles />
       </div>,
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route exact path="/" component={Login} />
           <Route exact path="/MainPlay" component={mainPlay} />

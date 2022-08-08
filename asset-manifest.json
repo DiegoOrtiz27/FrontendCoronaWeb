@@ -1,31 +1,21 @@
 {
   "files": {
-    "main.css": "/FrontendCoronaWeb/static/css/main.ac3be355.chunk.css",
-    "main.js": "/FrontendCoronaWeb/static/js/main.34b66f32.chunk.js",
-    "main.js.map": "/FrontendCoronaWeb/static/js/main.34b66f32.chunk.js.map",
-    "runtime-main.js": "/FrontendCoronaWeb/static/js/runtime-main.b1f844d1.js",
-    "runtime-main.js.map": "/FrontendCoronaWeb/static/js/runtime-main.b1f844d1.js.map",
-    "static/css/2.1a02f21c.chunk.css": "/FrontendCoronaWeb/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.2eac8a2d.chunk.js": "/FrontendCoronaWeb/static/js/2.2eac8a2d.chunk.js",
-    "static/js/2.2eac8a2d.chunk.js.map": "/FrontendCoronaWeb/static/js/2.2eac8a2d.chunk.js.map",
+    "main.css": "/FrontendCoronaWeb/static/css/main.3e03d43a.css",
+    "main.js": "/FrontendCoronaWeb/static/js/main.f164a2ec.js",
+    "static/media/fondo.jpg": "/FrontendCoronaWeb/static/media/fondo.9f07f6470856131d6639.jpg",
+    "static/media/logofinal.png": "/FrontendCoronaWeb/static/media/logofinal.f270b970d9ef6a966ff3.png",
+    "static/media/logroEstadisticas2.png": "/FrontendCoronaWeb/static/media/logroEstadisticas2.5c28023d84299c6361c4.png",
+    "static/media/logrosEstadisticas1.png": "/FrontendCoronaWeb/static/media/logrosEstadisticas1.a45ed994f8e63bb4266e.png",
+    "static/media/fire.png": "/FrontendCoronaWeb/static/media/fire.fd4e5db3b261a2fc68eb.png",
+    "static/media/estadistica.png": "/FrontendCoronaWeb/static/media/estadistica.8890cdd63b837ba2f7b0.png",
+    "static/media/virus.png": "/FrontendCoronaWeb/static/media/virus.e9d498a2b42bc83c066a.png",
+    "static/media/comentario.png": "/FrontendCoronaWeb/static/media/comentario.e8352d35185fefaea44f.png",
     "index.html": "/FrontendCoronaWeb/index.html",
-    "static/css/2.1a02f21c.chunk.css.map": "/FrontendCoronaWeb/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.ac3be355.chunk.css.map": "/FrontendCoronaWeb/static/css/main.ac3be355.chunk.css.map",
-    "static/js/2.2eac8a2d.chunk.js.LICENSE.txt": "/FrontendCoronaWeb/static/js/2.2eac8a2d.chunk.js.LICENSE.txt",
-    "static/media/comentario.e8352d35.png": "/FrontendCoronaWeb/static/media/comentario.e8352d35.png",
-    "static/media/estadistica.8890cdd6.png": "/FrontendCoronaWeb/static/media/estadistica.8890cdd6.png",
-    "static/media/fire.fd4e5db3.png": "/FrontendCoronaWeb/static/media/fire.fd4e5db3.png",
-    "static/media/QuizFinal.css": "/FrontendCoronaWeb/static/media/fondo.9f07f647.jpg",
-    "static/media/logofinal.f270b970.png": "/FrontendCoronaWeb/static/media/logofinal.f270b970.png",
-    "static/media/logroEstadisticas2.5c28023d.png": "/FrontendCoronaWeb/static/media/logroEstadisticas2.5c28023d.png",
-    "static/media/logrosEstadisticas1.a45ed994.png": "/FrontendCoronaWeb/static/media/logrosEstadisticas1.a45ed994.png",
-    "static/media/virus.e9d498a2.png": "/FrontendCoronaWeb/static/media/virus.e9d498a2.png"
+    "main.3e03d43a.css.map": "/FrontendCoronaWeb/static/css/main.3e03d43a.css.map",
+    "main.f164a2ec.js.map": "/FrontendCoronaWeb/static/js/main.f164a2ec.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.b1f844d1.js",
-    "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.2eac8a2d.chunk.js",
-    "static/css/main.ac3be355.chunk.css",
-    "static/js/main.34b66f32.chunk.js"
+    "static/css/main.3e03d43a.css",
+    "static/js/main.f164a2ec.js"
   ]
 }
